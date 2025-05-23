@@ -1,0 +1,28 @@
+{
+  "name": "bf-tokens",
+  "version": "0.1.0",
+  "description": "CSS design tokens for Brad Frost Web Design",
+  "main": "bf-tokens.css",
+  "files": [
+    "bf-tokens.css",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "css",
+    "design-tokens",
+    "design-system",
+    "css-variables",
+    "custom-properties"
+  ],
+  "author": "Brad Frost",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradfrost/bfw-tokens.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bradfrost/bfw-tokens/issues"
+  },
+  "homepage": "https://github.com/bradfrost/bfw-tokens#readme"
+} 
