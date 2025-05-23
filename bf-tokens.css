@@ -43,7 +43,7 @@
 	/**
    * Tier 2
    */
-	--bf-theme-color-background-default: var(--bf-color-white);
+	--bf-theme-color-background-default: var(--bf-color-brand-cream);
 	--bf-theme-color-background-subtle: var(--bf-color-brand-cream-light);
 	--bf-theme-color-background-knockout: var(--bf-color-brand-brown);
 	--bf-theme-color-background-brand: var(--bf-color-brand-orange);

@@ -19,10 +19,20 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bradfrost/bfw-tokens.git"
+    "url": "git+https://github.com/bradfrost/bf-tokens.git"
   },
   "bugs": {
-    "url": "https://github.com/bradfrost/bfw-tokens/issues"
+    "url": "https://github.com/bradfrost/bf-tokens/issues"
   },
-  "homepage": "https://github.com/bradfrost/bfw-tokens#readme"
+  "homepage": "https://github.com/bradfrost/bf-tokens#readme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "scripts": {
+    "prepublishOnly": "npm test",
+    "test": "echo \"No tests specified\" && exit 0"
+  }
 } 
